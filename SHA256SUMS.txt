@@ -1,0 +1,7 @@
+66a2d1304ecf5f51cfcc7837be6774f5bdf04f8d085c236e40ba34d0bfb857e6  firmware/ChisFlash-1.0V-Virtual-Iron-4M+1M-External-SRAM-RTS.bin
+df4f672eccff45889a111deb377cb5b63720d39df9f623c88d06b5afb260e429  firmware/ChisFlash-1.0V-Virtual-Iron-4M+1M-No-External-SRAM.bin
+a67dd99403914eea6f0367a8de57ef5668a4718d6781d711b37eec28b947ecc7  hardware/gerber/Gerber_ChisFlash-1.0V_2026-10-24.zip
+19619ec1e4c09d5dee245422a3d01818f05c9baa35d4c0dfd0ba06bdf7707448  hardware/pcb/ProDoc_ChisFlash-1.0V_2026-10-24.epro2
+15382528e9ca3bfeab0996f84ed599bf7c2a8161e65be68c750fe75e1e9a5ab0  images/ChisFlash-1.0V-PCB.png
+589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2  LICENSE
+9e06519a7ecf65f8c53545b84066e0ab55f538798d0dc2847796fd1952e2659b  README.md
